@@ -1,0 +1,14 @@
+.top-part {
+    display:flex;
+    width: 70%;
+}
+.mid-part {
+    display:flex;
+    width: 70%;
+}
+.top-part img {
+    width: 450px;
+}
+.mid-part img {
+    width: 450px;
+}
