@@ -83,3 +83,19 @@ background-repeat: no-repeat;
     border-left: 7px solid orange;
     box-shadow: 10px 10px 30px gray;
 }
+.footer-part{
+    border: solid wheat;
+    border-radius: 10px;
+    box-shadow: 10x 10px 20px lightgoldenrodyellow;
+    display: flex;
+    width: 77%;
+    margin:20px 12%;
+}
+.footer-width {
+    text-align: center;
+    width: 30%;
+}
+.footer-width h1 {
+    font-size: 40px;
+
+}
