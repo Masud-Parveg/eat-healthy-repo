@@ -28,11 +28,11 @@ background-repeat: no-repeat;
     width: 450px;
 }
 .bottom-part-image-01 img {
-    width: 500px;
+    width: 400px;
 }
 
 .bottom-part-image-02 img {
-    width: 500px;
+    width: 400px;
     
 }
 
@@ -98,4 +98,12 @@ background-repeat: no-repeat;
 .footer-width h1 {
     font-size: 40px;
 
+}
+.footer-two {
+    color: gray;
+    text-align:center;
+    width: 78%;
+    border: solid black;
+    background-color: black;
+    margin:20px 12%;
 }
