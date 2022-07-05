@@ -28,17 +28,14 @@ background-repeat: no-repeat;
     width: 450px;
 }
 .bottom-part-image-01 img {
-    width: 300px;
+    width: 500px;
 }
 
 .bottom-part-image-02 img {
-    width: 300px;
+    width: 500px;
+    
 }
-.bottom-part {
-    display: flex;
-    width: 80%;
-    margin: 20px 12%;
-}
+
 .mid-part-2 {
     text-align:center;
     width: 80%;
@@ -64,4 +61,25 @@ background-repeat: no-repeat;
     border-radius: 8px;
     color:black;
     background-image: linear-gradient(orange,tomato);
+}
+.bottom-part {
+    display: flex;
+    width: 80%;
+    margin:20px 12%;
+}
+.box-border-1 {
+    border-radius: 10px;
+    width: 45%;
+    margin:3%;
+    padding: 10px;
+    border-left: 7px solid yellow;
+    box-shadow: 10px 10px 30px gray;
+}
+.box-border-2 {
+    border-radius: 10px;
+    width: 45%;
+    margin:3%;
+    padding: 10px;
+    border-left: 7px solid orange;
+    box-shadow: 10px 10px 30px gray;
 }
