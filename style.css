@@ -17,6 +17,10 @@ body {
     width: 80%;
     margin: 20px 12%;
 }
+.mid-bannar {
+background-image: url(images/shapes/7.png);
+background-repeat: no-repeat;
+}
 .top-part img {
     width: 450px;
 }
